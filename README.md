@@ -1,5 +1,5 @@
 # BLENDED LEARNING
-# EX-9 Implementation of Customer Segmentation Using K-Means Clustering
+# Implementation of Customer Segmentation Using K-Means Clustering
 
 ## AIM:
 To implement customer segmentation using K-Means clustering on the Mall Customers dataset to group customers based on purchasing habits.
